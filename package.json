@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Curri4You/TestNodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Heeyoung Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Curri4You/TestNodejs/issues"
+  },
+  "homepage": "https://github.com/Curri4You/TestNodejs#readme"
+}
